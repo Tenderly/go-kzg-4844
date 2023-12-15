@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	bls12381 "github.com/consensys/gnark-crypto/ecc/bls12-381"
-	"github.com/crate-crypto/go-kzg-4844/internal/kzg"
+	"github.com/tenderly/go-kzg-4844/internal/kzg"
 )
 
 // This library will not :

@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/consensys/gnark-crypto/ecc/bls12-381/fr"
-	gokzg4844 "github.com/crate-crypto/go-kzg-4844"
 	"github.com/stretchr/testify/require"
+	gokzg4844 "github.com/tenderly/go-kzg-4844"
 )
 
 // / Returns a serialized random field element in little-endian
